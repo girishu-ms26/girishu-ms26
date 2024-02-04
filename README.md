@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girishu M S</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer with some Java & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS, Data structures and Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girishu-ms26&label=Profile%20views&color=0e75b6&style=flat" alt="girishu-ms26" /> </p>
 
