@@ -1,49 +1,46 @@
 # Hi 👋, I'm Girishu M S
 
-### Software Engineer | Backend Developer | AI Solutions Builder
+### Software Engineer | Backend & AI Engineer
 
 I'm a Software Engineer passionate about building scalable backend systems, modern web applications, and AI-powered solutions.
 
-With experience in enterprise logistics and last-mile delivery platforms, I enjoy designing robust APIs, distributed systems, and intelligent applications powered by Generative AI and Retrieval-Augmented Generation (RAG).
+I enjoy designing robust APIs, distributed systems, and intelligent applications powered by Generative AI and Retrieval-Augmented Generation (RAG). I'm always exploring new technologies and solving complex engineering problems through clean, scalable, and maintainable software.
 
 ---
 
 ## 🚀 About Me
 
-* 💼 Software Engineer specializing in Java and Backend Development
+* 💻 Backend Engineer with strong expertise in Java and Spring Boot
 * 🤖 Building AI-powered applications using LLMs, RAG, and Generative AI
-* 🌐 Experienced in developing full-stack solutions with React and modern web technologies
-* 📈 Passionate about System Design, Distributed Systems, and Scalable Architectures
-* 🔍 Always exploring new technologies and solving real-world business problems
-* 🌱 Currently learning advanced AI architectures, Agentic Workflows, and Cloud Technologies
+* 🌐 Experienced in developing full-stack applications with React and modern web technologies
+* 🏗️ Passionate about System Design, Distributed Systems, and Scalable Architectures
+* 📚 Strong foundation in Data Structures, Algorithms, DBMS, and Operating Systems
+* 🌱 Currently exploring Agentic AI, Cloud Technologies, and Advanced AI Architectures
+* ⚡ Lifelong learner who enjoys building impactful software solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend Development
+### Backend
 
-* Java
-* Spring Boot
-* Spring Data JPA
-* REST APIs
-* Microservices
-* Event-Driven Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
+</p>
 
 ### Databases
 
-* MongoDB
-* PostgreSQL
-* MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-### Frontend Development
-
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-
-### AI & Machine Learning
+### AI & GenAI
 
 * Generative AI
 * Retrieval-Augmented Generation (RAG)
@@ -54,39 +51,55 @@ With experience in enterprise logistics and last-mile delivery platforms, I enjo
 
 ### Tools & Platforms
 
-* Git & GitHub
-* Postman
-* Maven
-* Docker
-* IntelliJ IDEA
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" />
+</p>
 
 ---
 
-## 🎯 What I Enjoy Building
+## 🎯 Areas of Interest
 
-* Scalable Backend Services
-* AI-Powered Applications
-* Enterprise Business Solutions
-* Intelligent Search Systems
-* RAG-Based Knowledge Assistants
-* API Platforms
-* Full-Stack Applications
+* Backend Engineering
+* Distributed Systems
+* Microservices Architecture
+* System Design
+* Cloud-Native Applications
+* Artificial Intelligence
+* Generative AI
+* Full-Stack Development
+* Performance Optimization
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girishu-ms26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=girishu-ms26&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishu-ms26&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishu-ms26&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishu-ms26&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌟 What I Enjoy Building
+
+* Scalable Backend Services
+* RESTful APIs
+* AI-Powered Applications
+* RAG-Based Knowledge Systems
+* Intelligent Automation Solutions
+* Microservices Platforms
+* Full-Stack Web Applications
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/girishums26" target="_blank">
@@ -96,10 +109,14 @@ With experience in enterprise logistics and last-mile delivery platforms, I enjo
 
 ---
 
-### 💡 Philosophy
+### 💭 Engineering Philosophy
 
-> Build systems that scale.
+> Build scalable systems.
 >
-> Build software that solves real problems.
+> Write clean code.
 >
-> Build AI solutions that make people more effective.
+> Keep learning.
+>
+> Use AI to solve meaningful problems.
+
+⭐ If you like my work, feel free to explore my repositories and connect with me!
