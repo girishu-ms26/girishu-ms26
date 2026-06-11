@@ -1,14 +1,87 @@
-<h1 align="center">Hi 👋, I'm Girishu M S</h1>
-<h3 align="center">A passionate Software Developer with some Java & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and have good grasp of Computer Science fundamentals such as Operating system, DBMS, Data structures and Algorithms.</h3>
+# Hi there 👋, I'm Girishu M S
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=girishu-ms26&label=Profile%20views&color=0e75b6&style=flat" alt="girishu-ms26" /> </p>
+### Backend Software Engineer | Java | Spring Boot | Microservices
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/girishums26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girishums26" height="30" width="40" /></a>
+I'm a Software Engineer passionate about building scalable backend systems and distributed applications. I enjoy solving complex business problems through clean architecture, efficient APIs, and reliable services.
+
+* 🔭 Currently working on enterprise-scale logistics and last-mile delivery systems
+* 🌱 Exploring Cloud Technologies, System Design, and Distributed Systems
+* 💡 Strong interest in Backend Development, Databases, and Performance Optimization
+* 💬 Ask me about Java, Spring Boot, Microservices, MongoDB, PostgreSQL, REST APIs, and System Design
+* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* ⚡ Fun fact: I enjoy turning complex business workflows into simple, maintainable code
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/girishums26)
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring Data JPA
+* REST APIs
+* Microservices
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* MySQL
+
+### Tools & Platforms
+
+* Git & GitHub
+* Postman
+* Maven
+* IntelliJ IDEA
+
+### Frontend (Basic Knowledge)
+
+* React
+* JavaScript
+* HTML5
+* CSS3
+
+---
+
+## 📌 What I'm Working On
+
+* Building scalable backend services
+* Event-driven architectures
+* Database optimization
+* API development and integration
+* System design and architecture patterns
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=girishu-ms26&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishu-ms26&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=girishu-ms26&show_icons=true&locale=en&layout=compact" alt="girishu-ms26" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girishu-ms26&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🎯 Areas of Interest
+
+* Microservices Architecture
+* Distributed Systems
+* Cloud Computing
+* System Design
+* Database Engineering
+* High-Performance Backend Development
