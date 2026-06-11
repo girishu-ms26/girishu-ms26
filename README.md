@@ -1,59 +1,76 @@
 # Hi 👋, I'm Girishu M S
 
-### Software Engineer | Backend & AI Engineer
+### Software Engineer | Backend Systems | Generative AI
 
-I'm a Software Engineer passionate about building scalable backend systems, modern web applications, and AI-powered solutions.
+I'm a Software Engineer passionate about building scalable backend systems, cloud-native applications, and AI-powered solutions.
 
-I enjoy designing robust APIs, distributed systems, and intelligent applications powered by Generative AI and Retrieval-Augmented Generation (RAG). I'm always exploring new technologies and solving complex engineering problems through clean, scalable, and maintainable software.
+I enjoy designing robust APIs, distributed systems, event-driven architectures, and intelligent applications powered by Generative AI and Retrieval-Augmented Generation (RAG). I believe in writing clean, maintainable code and continuously learning new technologies to solve real-world problems.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Backend Engineer with strong expertise in Java and Spring Boot
+* 💻 Backend Engineer with expertise in Java and Spring Boot
 * 🤖 Building AI-powered applications using LLMs, RAG, and Generative AI
-* 🌐 Experienced in developing full-stack applications with React and modern web technologies
-* 🏗️ Passionate about System Design, Distributed Systems, and Scalable Architectures
+* ☁️ Interested in Cloud-Native and Distributed Systems
+* 🌐 Experienced in developing full-stack applications with React
+* 🧪 Strong advocate for automation, testing, and software quality
+* 🏗️ Passionate about System Design and scalable architectures
 * 📚 Strong foundation in Data Structures, Algorithms, DBMS, and Operating Systems
-* 🌱 Currently exploring Agentic AI, Cloud Technologies, and Advanced AI Architectures
-* ⚡ Lifelong learner who enjoys building impactful software solutions
+* 🌱 Currently exploring Agentic AI, AI Workflows, and Advanced System Design
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,javascript,html,css" />
 </p>
 
-### Databases
+### Databases & Caching
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 </p>
 
-### AI & GenAI
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
+</p>
+
+### Messaging & Event Streaming
+
+* Apache Kafka
+* Event-Driven Architecture
+* Asynchronous Processing
+
+### Testing & Automation
+
+* Cucumber
+* Gherkin
+* Integration Testing
+* API Testing
+* Test Automation
+* Quality Engineering
+
+### AI & Generative AI
 
 * Generative AI
 * Retrieval-Augmented Generation (RAG)
 * LLM Integrations
 * Prompt Engineering
-* AI Solution Development
+* AI Agents & Workflows
 * Vector Databases
-
-### Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" />
-</p>
+* AI Solution Development
 
 ---
 
@@ -62,12 +79,25 @@ I enjoy designing robust APIs, distributed systems, and intelligent applications
 * Backend Engineering
 * Distributed Systems
 * Microservices Architecture
-* System Design
+* Event-Driven Systems
 * Cloud-Native Applications
 * Artificial Intelligence
 * Generative AI
+* System Design
 * Full-Stack Development
 * Performance Optimization
+
+---
+
+## 🌟 What I Enjoy Building
+
+* Scalable Backend Services
+* High-Performance REST APIs
+* AI-Powered Applications
+* RAG-Based Knowledge Systems
+* Event-Driven Architectures
+* Automation & Testing Frameworks
+* Full-Stack Web Applications
 
 ---
 
@@ -87,18 +117,6 @@ I enjoy designing robust APIs, distributed systems, and intelligent applications
 
 ---
 
-## 🌟 What I Enjoy Building
-
-* Scalable Backend Services
-* RESTful APIs
-* AI-Powered Applications
-* RAG-Based Knowledge Systems
-* Intelligent Automation Solutions
-* Microservices Platforms
-* Full-Stack Web Applications
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
@@ -113,10 +131,10 @@ I enjoy designing robust APIs, distributed systems, and intelligent applications
 
 > Build scalable systems.
 >
-> Write clean code.
+> Automate repetitive work.
 >
-> Keep learning.
+> Embrace AI thoughtfully.
 >
-> Use AI to solve meaningful problems.
+> Never stop learning.
 
-⭐ If you like my work, feel free to explore my repositories and connect with me!
+⭐ Open to collaborating on Backend, Cloud, and AI-powered projects.
